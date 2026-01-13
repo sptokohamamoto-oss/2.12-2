@@ -6,18 +6,9 @@ class Program
     {
         string[] fruits = { "りんご", "みかん", "ぶどう" };
 
-        foreach (var item in fruits) 
-        {
+        foreach (var item in fruits)
         
-        Console.WriteLine(item);
+            Console.WriteLine(item);
         
-        }
-    
-   
-    
-    
     }
-
-
-
 }
